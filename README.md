@@ -1,2 +1,3 @@
-# PittSwansonShield
-Pitt Open Source Single Material Face Shield brought to you by the University of Pittsburgh Swanson School of Engineering
+# WiCS GitHub Workshop
+Website created as open source collaboration to teach Open Source Collaboration on GitHub to WiCS members.
+
